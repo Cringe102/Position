@@ -1,0 +1,38 @@
+
+.a {
+    background-color: white;
+    color: black;
+}
+
+.b {
+    background-color: white;
+    color: black;
+}
+
+.c {
+    background-color: white;
+    color: black;
+    height: 80vh;
+}
+
+
+.child-one {
+    background-color: black;
+    color: lightskyblue;
+    position: sticky;
+    top: 0px;
+}
+
+.child-two {
+    background-color: black;
+    color: lightskyblue;
+    position: sticky;
+    top: 0px;
+}
+
+.child-three {
+    background-color: black;
+    color: lightskyblue;
+    position: sticky;
+    top: 0px;
+}
